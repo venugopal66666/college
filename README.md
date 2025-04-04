@@ -1,4 +1,4 @@
 # college
 this is my first repository.
 <br>
-author-venu
+author-venu(magathala)
